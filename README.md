@@ -9,7 +9,7 @@
 
 <p align="center"> 
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a Designer & Developer from <b>India</b> 」
     <br>
     <br>
   
