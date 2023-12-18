@@ -8,11 +8,6 @@
 
 
 <p align="center"> 
-  <samp>
-    
- <p align="center"> 
-  <samp>
-  
     <br>
     「 I am a full stack web application developer from <b>Bangladesh</b> 」
     <br>
